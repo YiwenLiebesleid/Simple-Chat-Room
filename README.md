@@ -4,6 +4,9 @@
 
 This is the course project for CS 513 Computer Networks. In this project, we need to design a simple client-server chat program using Java and Windows socket commands.
 
+### References
+Several blogs are referenced during the process of this project.
+
 ### Specifications
 
 * Multiple clients
