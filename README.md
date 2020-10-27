@@ -6,9 +6,7 @@ This is the course project for CS 513 Computer Networks. In this project, we nee
 
 ### References
 Several blogs are referenced during the process of this project:
-
-https://www.jianshu.com/p/b4e2a555ef4c
-https://cshihong.github.io/2017/08/20/%E5%9F%BA%E4%BA%8Esocket-%E7%AE%80%E5%8D%95%E8%81%8A%E5%A4%A9%E5%AE%A4%E7%9A%84%E5%AE%9E%E7%8E%B0/
+https://www.jianshu.com/p/b4e2a555ef4c   https://cshihong.github.io/2017/08/20/%E5%9F%BA%E4%BA%8Esocket-%E7%AE%80%E5%8D%95%E8%81%8A%E5%A4%A9%E5%AE%A4%E7%9A%84%E5%AE%9E%E7%8E%B0/
 
 ### Specifications
 
